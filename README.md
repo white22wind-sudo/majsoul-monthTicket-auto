@@ -42,4 +42,4 @@ This project is based on the [mahjong_soul_api](https://github.com/MahjongReposi
   
   ![image](https://github.com/4n3u/majsoul-monthTicket-auto/assets/167657823/fa01c1d0-ae9c-4d97-8430-808a2b06c329)
 
-_1114
+_0203
